@@ -2,7 +2,7 @@
 ### SQL Challenge
 
 #### Background
-This module challenge was boken down into three parts. Using a relative database like Postgres, a data model of a system was created via an ERD. By importing CSV files into this database, analyses of data was easy due to very efficient queries. 
+This module challenge was broken down into three parts. Using a relative database like Postgres, a data model of a system was created via an ERD. By importing CSV files into this database, analyses of data was easy due to very efficient queries. 
 
 
 #### Instructions
